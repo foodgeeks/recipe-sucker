@@ -1,0 +1,8 @@
+{
+    "require": {
+        "monolog/monolog": "1.2.*",
+	"mf2/mf2": "0.2.*",
+        "linclark/microdata-php": "2.0.2",
+        "aws/aws-sdk-php": "2.8.*"
+    }
+}

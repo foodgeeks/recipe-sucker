@@ -1,0 +1,181 @@
+Teaspoons
+1 teaspoon salt
+2 teaspoons salt
+1 Teaspoon salt
+2 Teaspoons salt
+1 tsp. salt
+1 Tsp. salt
+1 tsp salt
+1 Tsp salt
+1 teas. salt
+1 ts salt
+1 tsp. salt
+2 tsps salt
+2 tsps. salt
+1t salt
+1 t salt
+
+Tablespoons
+1 tablespoon sugar
+2 tablespoons sugar
+1 Tablespoon sugar
+2 Tablespoons sugar
+1 tbsp. sugar
+1 tbsp sugar
+2 tbsps. sugar
+2 tbsps sugar
+2 Tb sugar
+2 Tb. sugar
+2 tb sugar
+2 tb. sugar
+2 Tbl sugar
+2 Tbl. sugar
+2 tbl sugar
+2 tbl. sugar
+2 Tbs sugar
+2 Tbs. sugar
+2 tbs sugar
+2 tbs. sugar
+2 T sugar
+2T sugar
+
+Grams
+20g sugar
+20 g sugar
+20 g. sugar
+20 grams sugar
+
+Liters
+3l coke
+3 l coke
+3 l. coke
+3 liters coke
+
+Fluid Ounces
+6 fluid ounces rum
+6 fl oz rum
+6 fl. oz rum
+6 fl oz. rum
+6 fl. oz. rum
+
+Ounces
+2 bags (12 ounces) chocolate chips
+2 bags (12 ounces each) chocolate chips
+2 bags (12 ounce) chocolate chips
+2 bags (12 ounce each) chocolate chips
+2 bags (12 oz.) chocolate chips
+2 bags (12 oz. each) chocolate chips
+2 bags (12 OZ) chocolate chips
+2 bags (12 OZ each) chocolate chips
+1 (12 ounces) bag of chocolate chips
+1 (12 ounce) bag of chocolate chips
+1 (12 oz.) bag of chocolate chips
+1 (12 OZ) bag of chocolate chips
+12 ounces chocolate chips
+12 ounce chocolate chips
+12 OZ chocolate chips
+12 oz. chocolate chips
+
+Cans, or measurements of measurements
+1 can (28 oz.) tomato sauce
+1 (28 oz.) can tomato sauce
+1 28 oz. can tomato sauce
+1 can 28 oz. tomato sauce
+1/2 (28 ounce) can tomato sauce
+2 (28 ounce) cans tomato sauce
+1(28 oz.) can tomato sauce
+1 (28-oz size) can tomato sauce
+
+Abbreviated Fraction ⅛ 
+⅛ tsp. hot sauce
+1⅛ tsp. hot sauce
+1 ⅛ tsp. hot sauce
+⅛ tsp. to 1 ⅛ tsp. hot sauce
+⅛-1 ⅛ tsp. hot sauce
+
+Abbreviated Fraction ¼
+¼ tsp. hot sauce
+1¼ tsp. hot sauce
+1 ¼ tsp. hot sauce
+¼ tsp. to 1 ¼ hot sauce
+¼-1 ¼ tsp. hot sauce
+
+Abbreviated Fraction ⅓
+⅓ tsp. hot sauce
+1⅓ tsp. hot sauce
+1 ⅓ tsp. hot sauce
+⅓ tsp. to 1 ⅓ hot sauce
+⅓-1 ⅓ tsp. hot sauce
+
+Abbreviated Fraction ⅜
+⅜ tsp. hot sauce
+1⅜ tsp. hot sauce
+1 ⅜ tsp. hot sauce
+⅜ tsp. to 1 ⅜ hot sauce
+⅜-1 ⅜ tsp. hot sauce
+
+Abbreviated Fraction ½
+½ tsp. hot sauce
+1½ tsp. hot sauce
+1 ½ tsp. hot sauce
+½ tsp. to 1 ½ hot sauce
+½-1 ½ tsp. hot sauce
+
+Abbreviated Fraction ⅝
+⅝ tsp. hot sauce
+1⅝ tsp. hot sauce
+1 ⅝ tsp. hot sauce
+⅝ tsp. to 1 ⅝ hot sauce
+⅝-1 ⅝ tsp. hot sauce
+
+Abbreviated Fraction ⅔
+⅔ tsp. hot sauce
+1⅔ tsp. hot sauce
+1 ⅔ tsp. hot sauce
+⅔ tsp. to 1 ⅔ hot sauce
+⅔-1 ⅔ tsp. hot sauce
+
+Abbreviated Fraction ¾
+¾ tsp. hot sauce
+1¾ tsp. hot sauce
+1 ¾ tsp. hot sauce
+¾ tsp. to 1 ¾ hot sauce
+¾-1 ¾ tsp. hot sauce
+
+Abbreviated Fraction ⅞
+⅞ tsp. hot sauce
+1⅞ tsp. hot sauce
+1 ⅞ tsp. hot sauce
+⅞ tsp. to 1 ⅞ hot sauce
+⅞-1 ⅞ tsp. hot sauce
+
+Fraction
+1/4 cup enchilada sauce
+1/3 cup enchilada sauce
+1/4-1/3 cup enchilada sauce
+1/4 to 1/3 cup enchilada sauce
+1-1/3 cup enchilada sauce (this should be 1.33)
+
+Fraction with Unicode Slash #1 
+1/4 cup buttermilk
+1/3 cup buttermilk
+1/4-1/3 cup buttermilk
+1/4 to 1/3 cup buttermilk
+1-1/3 cup buttermilk (this should be 1.33)
+
+Fraction with Unicode Slash #2
+1⁄4 cup buttermilk
+1⁄3 cup buttermilk
+1⁄4-1⁄3 cup buttermilk
+1⁄4 to 1⁄3 cup buttermilk
+1-1⁄3 cup buttermilk (this should be 1.33)
+
+Plus
+1 cup milk plus 1 tsp. lemon juice
+
+Ingredient Substitution
+1⁄4-1⁄2 cup sugar or 1⁄4-1⁄2 cup Splenda sugar substitute
+1 cup buttermilk or 1 cup milk plus 1 tsp. lemon juice
+
+Headers can be with or without colon:
+All above should be headers
