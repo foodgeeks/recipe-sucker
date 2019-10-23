@@ -52,23 +52,3 @@ The goal for this process is to pull in to prepare the data in `publisher_recipe
 ```
 php prep.php
 ```
-
-## 4. Data Import
-
-Perform a mysqldump on the publisher_recipes.publishers table and the publisher_recipes.recipes_prepped_for_import table, scp them both to the server, and import them into the sandbox and production databases. (Ideally push a backup of these databases to S3 as well.)
-
-In the foodgeeks.com/scripts directory, run the following 3 commands:
-
-```
-php cleanup-recipes-after-import.php
-php import_publisher_recipes.php
-php import_publisher_recipe_photos.php
-```
-
-```Import_publisher_recipes``` will automatically import recipes that are 100% matches for recipe types.
-
-## 5. Import Recipes
-
-This takes place in the Foodgeeks main site. Once you're logged in as an admin, visit the following page to import n number of recipes at a time and ensure that they are tagged with the correct recipe types:
-
-https://foodgeeks.com/admin/import_recipes
